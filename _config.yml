@@ -111,11 +111,11 @@ author:
   avatar           : "/assets/images/Saurabh.jpg"
   bio              : "9+ years of experience in data science consulting"
   location         : "Ireland"
-  email            : "saurabhgoel85@gmail.com"
+  email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:saurabhgoel85@email.com
+      url: mailto:saurabhgoel85@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

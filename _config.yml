@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/Saurabh.jpg"
   bio              : "9+ years of experience in data science consulting"
   location         : "Ireland"
-  email            : 
+ # email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

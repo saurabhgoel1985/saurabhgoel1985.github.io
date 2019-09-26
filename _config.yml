@@ -132,7 +132,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/saurabhgoel85/"
 
 
